@@ -1,0 +1,53 @@
+/* Write your code here. */
+.bg-container{
+    background-color: white;
+    height: 100vh;
+    padding: 40px;
+}
+
+.heading{
+    color: black;
+    font-family: roboto;
+    text-align: center;
+}
+
+.box1{
+    height: 60px;
+    width: 60px;
+    background-color: #fbbf24;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-family: Bree Serif;
+    margin-right: 10px;
+}
+
+.box2{
+    height: 90px;
+    width: 90px;
+    background-color: #38bdf8;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-family: Bree Serif;
+    margin-right: 10px;
+}
+
+.box3{
+    height: 120px;
+    width: 120px;
+    background-color: #ec4899;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-family: Bree Serif;
+    margin-right: 10px;
+}
+
+.cards-container{
+    display: flex;
+    flex-direction: row;
+}
